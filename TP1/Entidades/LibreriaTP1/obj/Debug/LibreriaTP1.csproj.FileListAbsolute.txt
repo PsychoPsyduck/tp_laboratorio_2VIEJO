@@ -1,0 +1,10 @@
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\bin\Debug\LibreriaTP1.dll
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\bin\Debug\LibreriaTP1.pdb
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\bin\Debug\Entidades.exe
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\bin\Debug\Entidades.pdb
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\bin\Debug\Entidades.exe.config
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\obj\Debug\LibreriaTP1.csprojAssemblyReference.cache
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\obj\Debug\LibreriaTP1.csproj.CoreCompileInputs.cache
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\obj\Debug\LibreriaTP1.csproj.CopyComplete
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\obj\Debug\LibreriaTP1.dll
+C:\Users\Pino\Desktop\Entidades\LibreriaTP1\obj\Debug\LibreriaTP1.pdb
