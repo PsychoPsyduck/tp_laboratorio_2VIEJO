@@ -22,20 +22,18 @@ namespace Entidades
 
         public Numero(string numero)
         {
-            this.SetNumero = numero;
+            SetNumero = numero;
         }
 
         private static double ValidarNumero(string strNumero)
         {
-            double retorno = 0;
             double auxDecimal;
-            bool isValid = double.TryParse(strNumero, out auxDecimal); ;
 
-            if (isValid)
+            if (double.TryParse(strNumero, out auxDecimal))
             {
-                retorno = auxDecimal;
+                return auxDecimal;
             }
-            return retorno;
+            return 0;
         }
 
         public string SetNumero
@@ -43,9 +41,7 @@ namespace Entidades
             set
             {
                 if (ValidarNumero(value) != 0)
-                {
-                    this.numero = ValidarNumero(value);
-                }
+                    numero = ValidarNumero(value);
             }
         }
 
@@ -62,7 +58,6 @@ namespace Entidades
                 auxCifras = binario.Length;
                 for (i = 0; i < auxCifras; i++)
                 {
-
                     if (binario.ElementAt(i) != '0' && binario.ElementAt(i) != '1')
                     {
                         return "Valor invalido";
@@ -120,7 +115,7 @@ namespace Entidades
             }
             return retorno;
         }
-        
+
         public static double operator -(Numero n1, Numero n2)
         {
             return n1.numero - n2.numero;
@@ -133,13 +128,10 @@ namespace Entidades
 
         public static double operator /(Numero n1, Numero n2)
         {
-            double retorno=0;
-
             if (n2.numero != 0)
-            {
-                retorno = n1.numero / n2.numero;
-            }
-            return retorno;
+                return n1.numero / n2.numero;
+            else
+                return 0;
         }
 
         public static double operator +(Numero n1, Numero n2)

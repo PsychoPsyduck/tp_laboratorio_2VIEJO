@@ -1,7 +1,5 @@
-C:\Users\Pino\Desktop\Entidades\Entidades\bin\Debug\Entidades.exe.config
-C:\Users\Pino\Desktop\Entidades\Entidades\bin\Debug\Entidades.exe
-C:\Users\Pino\Desktop\Entidades\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Pino\Desktop\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Pino\Desktop\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Pino\Desktop\Entidades\Entidades\obj\Debug\Entidades.exe
-C:\Users\Pino\Desktop\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb

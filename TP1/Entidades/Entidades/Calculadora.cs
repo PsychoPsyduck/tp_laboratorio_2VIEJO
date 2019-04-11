@@ -16,17 +16,13 @@ namespace Entidades
             switch (operador)
             {
                 case "+":
-                    retorno = num1+num2;
-                    break;
+                    return (num1 + num2);
                 case "-":
-                    retorno = num1-num2;
-                    break;
+                    return (num1 - num2);
                 case "*":
-                    retorno = num1*num2;
-                    break;
+                    return (num1 * num2);
                 case "/":
-                    retorno = num1/num2;
-                    break;
+                    return (num1 / num2);
             }
             return retorno;
         }
